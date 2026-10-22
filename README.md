@@ -2,7 +2,6 @@
 
 An Excel workbook comparing four companies in the app advertising space: AppLovin, Reddit, Pinterest and Duolingo. It covers 8 quarters (Q3 2024 – Q2 2026), using figures from each company's earnings releases and SEC filings.
 
-![Summary tab](summary.png)
 
 ## What it shows
 - Reddit grew revenue fastest in Q2 2026 (61% YoY), and its revenue outpaced user growth by 43 points, so monetization rather than audience drove the gain.
